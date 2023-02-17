@@ -1,0 +1,4 @@
+O trabalho tem como objetivo realizar a análise exploratória de dados 
+do dataset: "Predict students' dropout and academic success".
+Verificando o impacto de fatores sociais e econômicos para prever a evasão 
+e o sucesso acadêmico dos alunos.
